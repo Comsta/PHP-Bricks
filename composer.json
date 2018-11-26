@@ -1,0 +1,17 @@
+{
+    "name": "comsta/blogtest",
+    "description": "ein blog von stefan :)",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Thomas Stasche",
+            "email": "Thomas.Stasche@de.ibm.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {"comsta\\": "src/"}
+    }
+}
